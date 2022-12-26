@@ -1,1 +1,1 @@
-# Classification-SMS
+# SMS Classification
